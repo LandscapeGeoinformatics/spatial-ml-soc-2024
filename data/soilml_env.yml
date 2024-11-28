@@ -1,0 +1,25 @@
+name: soilml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas=1.5.3
+  - numpy=1.23
+  - geopandas=0.12
+  - cloudpickle=2.2
+  - pykrige=1.7
+  - scikit-learn=1.2.1
+  - rasterio
+  - rioxarray
+  - xarray
+  - joblib
+  - dask-jobqueue
+  - dask
+  - distributed
+  - google-cloud-storage
+  - sqlalchemy
+  - numba
+  - zarr
+  - numcodecs
+  - python-blosc
+  - lz4
