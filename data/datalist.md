@@ -17,7 +17,8 @@
 - https://storage.googleapis.com/geo-assets/soil_ml_source/twi_10m_cog.tif
 
 ## Trained models as Python pickle files and soc sampling point data:
-- Zenodo: DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14236579.svg)](https://doi.org/10.5281/zenodo.14236579)
 
 ## Full inference over Estonia:
 - https://storage.googleapis.com/geo-assets/soil_ml_source/soc_base_zarr_v2.tif
