@@ -24,7 +24,7 @@
 - https://storage.googleapis.com/geo-assets/soil_ml_source/soc_base_zarr_v2.tif
 - https://storage.googleapis.com/geo-assets/soil_ml_source/soc_xy_zarr_v2.tif
 - https://storage.googleapis.com/geo-assets/soil_ml_source/soc_bd_zarr_v2.tif
-- https://storage.googleapis.com/geo-assets/soil_ml_source/soc_knn_zarr_v2.tif
+- https://storage.googleapis.com/geo-assets/soil_ml_source/soc_knn_zarr_v2.tif (aka RFSI)
 - https://storage.googleapis.com/geo-assets/soil_ml_source/soc_ko_zarr_v2.tif
 - as described in the manuscript, GWR full inference didn't complete
 

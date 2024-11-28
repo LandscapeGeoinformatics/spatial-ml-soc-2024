@@ -4,7 +4,7 @@
 
 - rf_test_XY.ipynb: Assesses the model's accuracy considering X and Y coordinates.
 
-- rf_test_KNN.ipynb: Assesses the model's accuracy considering the k-nearest neighbors algorithm.
+- rf_test_KNN.ipynb: Assesses the model's accuracy considering the k-nearest neighbors algorithm. (aka RFSI)
 
 - rf_test_BD.ipynb: Assesses the model's accuracy considering buffer distances.
 

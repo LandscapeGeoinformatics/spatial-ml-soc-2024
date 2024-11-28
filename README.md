@@ -9,3 +9,7 @@ Folders and files:
 - `data`: reference to the input/source datasets and the conda environment yaml
 - `model_test`: fresh training and (cross-)validation, numbers may slightly vary
 - `predict_full`: scripts that were used to predict to the of Estonia as 10m raster
+
+Errata:
+
+In the manuscript the term RFSI (Random Forest Spatial Interpolation) is used, in the scripts and data the RFSI-associated model is named KNN (K-Nearest-Neighbours)
